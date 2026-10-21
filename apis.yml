@@ -1,23 +1,66 @@
 aid: itac
+
 name: iTAC Software
-description: 'iTAC Software is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://itac.co/og-image.jpg
+
+description: 'iTAC Software provides secure file transfer, post‑quantum cryptography, observability, and AI‑driven development solutions for enterprises. With over 20 years of experience, ITAC delivers cybersecurity, monitoring, and intelligent software tools to help organizations protect data, ensure compliance, and accelerate digital transformation.'
+
 url: https://raw.githubusercontent.com/api-evangelist/itac/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:g2-catalog
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-20 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-20'
+
 modified: '2026-10-20'
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: The developer portal returns HTML shells and no machine‑readable OpenAPI spec.
+  evidence:
+    - url: https://itac.co/api-docs
+      status: 200
+  checked: '2026-10-20'
+
 tags:
 - Company
-apis: []
+- Cybersecurity
+- AI
+- Observability
+- File Transfer
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/itac-llms.txt
+- type: Hosts
+  url: hosts/itac-hosts.yml
+- type: Vendors
+  url: vendors/itac-vendors.yml
+- type: Blog
+  url: https://itac.co/nosotros/blog
+- type: DomainSecurity
+  url: security/itac-domain-security.yml
 - type: Website
   url: https://itac.co/
+
+apis: []
+x-enrichment:
+  date: '2026-10-20'
+  status: enriched
+  artifacts_added: 9
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

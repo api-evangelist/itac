@@ -1,0 +1,18 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/itac/integrations
+- https://zapier.com/apps/itac-software/integrations
+- https://n8n.io/integrations/itac/
+- https://composio.dev/toolkits/itac
+- https://monid.ai/tools/itac
+checked:
+- https://composio.dev/toolkits/itac
+- https://monid.ai/tools/itac
+- https://n8n.io/integrations/itac/
+- https://zapier.com/apps/itac-software/integrations
+- https://zapier.com/apps/itac/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

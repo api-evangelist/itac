@@ -1,0 +1,48 @@
+# ITAC — IT Applications Consulting
+
+> Compañía colombiana con más de 20 años de experiencia en ciberseguridad, criptografía post-cuántica, transferencia segura de archivos, observabilidad y desarrollo de software asistido por IA para empresas.
+
+ITAC (itac.co) diseña y opera soluciones para operaciones críticas B2B: gobierno criptográfico y criptoagilidad (ANKASecure®), transferencia gestionada de archivos (ITAC SecureFile®), protección de APIs y servicios web (ITAC WS-Guardian®), observabilidad de aplicaciones (IBM Instana) y fábrica de software con prácticas ISO 27001 y CMMI Nivel 5.
+
+## Productos
+
+- [ITAC SecureFile® Agent](/productos/securefile-agent): Cifrado y transferencia segura de archivos en el endpoint.
+- [ITAC SecureFile® MFT](/productos/securefile-mft): Transferencia gestionada de archivos (MFT) auditable para banca y sectores regulados.
+- [ITAC WS-Guardian®](/productos/ws-guardian): Seguridad, control y monitoreo de APIs y servicios web.
+- [ANKASecure®](/productos/ankasecure): Plano de control criptográfico y seguridad post-cuántica.
+
+## Soluciones
+
+- [Fábrica de software](/fabrica-software): Desarrollo de software a la medida con IA supervisada por arquitectos senior, ISO 27001 y procesos y prácticas alineados a CMMI Nivel 5.
+- [Desarrollo de software con IA](/desarrollo-software-ia): Ingeniería aumentada con IA y control de calidad.
+- [Fábrica de automatización](/fabrica-automatizacion): Automatización de procesos y operaciones de TI.
+- [Automatización de operaciones de TI](/automatizacion-operaciones-ti): Automatización conversacional con Ansible AWX.
+- [Observabilidad y monitoreo](/observabilidad-monitoreo): Monitoreo de aplicaciones y microservicios.
+- [Observabilidad de aplicaciones con Instana](/observabilidad-aplicaciones-instana): Trazabilidad completa de transacciones.
+- [Continuidad digital y observabilidad](/continuidad-digital-observabilidad): Resiliencia operativa y reducción de MTTR.
+- [Transferencia segura de archivos](/transferencia-segura-archivos): Intercambio seguro y auditable de información.
+- [Migración a criptografía post-cuántica](/migracion-criptografia-post-cuantica): Ruta de migración a algoritmos PQC.
+- [Gobernanza criptográfica con terceros](/gobernanza-criptografica-terceros): Control de llaves y datos compartidos con proveedores.
+- [Cripto-agilidad y Circular 029 SFC](/cripto-agilidad-sfc): Cumplimiento criptográfico para el sector financiero colombiano.
+- [Plano de control criptográfico](/plano-control-criptografico-ankasecure): Arquitectura de control de cifrado centralizada.
+
+## Empresa
+
+- [Quiénes somos](/nosotros/quienes-somos): Historia, propósito y equipo de ITAC.
+- [SGC y SGSI](/nosotros/sgc-sgsi): Sistemas de gestión de calidad y seguridad de la información.
+- [Reconocimientos](/nosotros/reconocimientos): Premios y certificaciones.
+- [RSE](/nosotros/rse): Responsabilidad social empresarial.
+- [SessionTech](/nosotros/sessiontech): Webinars y sesiones técnicas.
+- [Trabaja con nosotros](/nosotros/trabaja-con-nosotros): Oportunidades laborales y prácticas.
+- [Blog](/nosotros/blog): Artículos sobre seguridad, criptografía, observabilidad e IA.
+- [Partners](/partners): Red de socios tecnológicos de ITAC.
+- [Programa de partners](/partners/programa): Beneficios y niveles del programa.
+- [Contacto](/contacto): Formulario y canales de contacto.
+- [Soporte](/soporte): Centro de soporte y preguntas frecuentes.
+
+## Optional
+
+- [Política de privacidad](/politica-privacidad): Tratamiento de datos personales.
+- [Demo SecureFile Agent](/demos/securefile-agent): Demostración interactiva.
+- [Demo SecureFile MFT](/demos/securefile-mft): Demostración interactiva.
+- [Demo WS-Guardian](/demos/ws-guardian): Demostración interactiva.
